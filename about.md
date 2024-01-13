@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-This is an example page!
+From January to March 2024, I (Kunvar) collaborated with Victor Levoso to mechanistically understand the out of context meta-learning phenomena that occurs in large language models (llms). 
 
-Actually, it has the same layout of a post...
+You can visit my personal website here : https://mechinterp.com

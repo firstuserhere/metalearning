@@ -1,20 +1,30 @@
 ---
 layout: post
-author: Abhinav Saxena
-tags: [overview, moonwalk]
+author: Kunvar Thaman
+tags: [references, theory]
 ---
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+What is the confusion we're trying to resolve?
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+# Out of context meta-learning
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+Brown et al. (2020) [^1] discovered the phenomenon of in-context meta-learning in language models. The out-of-context meta learning paper (Krasheninnikov et al. [^2]) introduces a related but distinct phenomena. Models internalize the **semantic content** of text from a reliable seeming source more so than an unreliable seeming one.
 
+For instance, a model may internalize the content of a wikipedia page more so than a 4chan page, as understanding the semantic content of wikipedia is likely more widely applicable to predicting the next token than understanding the semantic content of 4chan.
+
+Here, we use “internalize” to mean the model treats certain content as true, and will recall this information reliably when answering related questions.
+
+
+## Confusions: 
+1. Do intermediate activations in the model meaningfully discriminate between the two different definitions?
+
+2. Can we find neurons using sparse probing that correlate and are causally linked with variables defined with the two separate define clauses. I.e. neurons for “abc” vs “xyz”. Can we understand how these neurons are used downstream?
+
+3. Is the fact retrieval circuit localized, and meaningfully different between different kinds of definitions? Geva et al. suggest a mechanism by which LLMs are able to elicit facts about subjects.
+
+4. Can we find evidence of this phenomena in the wild (not just in toy model simplistic setups)?
+
+5. Can we mechanistically understand what it means for the model to perform meta-learning in this way?
 ## Lists
 
 Unordered:
@@ -79,7 +89,7 @@ This is an image[^4]
 ---
 {: data-content="footnotes"}
 
-[^1]: this is a footnote. You should reach here if you click on the corresponding superscript number.
-[^2]: hey there, don't forget to read all the footnotes!
+[^1]: https://arxiv.org/abs/2005.14165
+[^2]: https://arxiv.org/abs/2310.15047 
 [^3]: this is another footnote.
 [^4]: this is a very very long footnote to test if a very very long footnote brings some problems or not; hope that there are no problems but you know sometimes problems arise from nowhere.
