@@ -6,62 +6,53 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://www.mechinterp.com
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: What is out of context meta-learning?
+    url: intro-post
+    desc: Ok so what is it and why is it?
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+  - title: Resolving confusion 1
+    url: confusion-1
+    desc: Let's do some experiments to resolve some confusions
     highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+  - title: Resolving confusion 2
+    url: confusion-2
+    desc: What is happening?
     highlight: WIP
 
-  - title: Project 6
+  - title: Resolving confusion 3
+    url: confusion-3
+    desc: Why is happening?
+    highlight: WIP
+
+  - title: Resolving confusion 4
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: When is happening?
+    highlight: WIP
+
+  - title: Resolving confusion 5
+    url: confusion-5
+    desc: How is happening?
+    highlight: WIP
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+  - title: Mechanistic Interpretability
+    url: https://www.mechinterp.com
+    desc: This is my website where all the major updates go to
     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
-
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Kunvar's homepage
+    url: https://www.kunvarthaman.com
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/firstuserhere
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/firstuserhere
 
   - title: feed
     url: feed.xml
@@ -79,23 +70,3 @@ misc_entries:
   - title: Blog posts
     post_list: true
     url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
-
