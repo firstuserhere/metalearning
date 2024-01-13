@@ -1,8 +1,8 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: Out of context Meta-Learning in LLMs
+author: Kunvar Thaman
+url: https://firstuserhere.github.io/metalearning # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+ This website contains the research notes, experiments, and the results we obtained while investigating the phenomena of out of context meta learning in LLMs through the lens of mechanistic interpretability.
 
 permalink: /:slug
 
