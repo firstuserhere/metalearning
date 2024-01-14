@@ -3,9 +3,9 @@ layout: post
 title: About
 ---
 
-[Ongoing]:From January 2024 to April 2024, I (Kunvar) will be working to mechanistically understand the out of context meta-learning phenomena that occurs in large language models (llms). 
+From January 2024 to April 2024, I (Kunvar) will be working to mechanistically understand the out of context meta-learning phenomena that occurs in large language models (llms). 
 
-This is a collaborative effort. Thank you to my teammabtes for all the work they did on this project:
+This is a collaborative effort. I want to thank my teammates for all the work they did, helping resolve the confusions about how LLMs perform meta-learning out of context.
 
 1. Victor Levoso Fernandez
 
