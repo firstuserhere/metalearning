@@ -3,6 +3,20 @@ layout: post
 title: About
 ---
 
-From January to March 2024, I (Kunvar) collaborated with Victor Levoso to mechanistically understand the out of context meta-learning phenomena that occurs in large language models (llms). 
+[Ongoing]:From January 2024 to April 2024, I (Kunvar) will be working to mechanistically understand the out of context meta-learning phenomena that occurs in large language models (llms). 
 
-You can visit my personal website here : https://mechinterp.com
+This is a collaborative effort. Thank you to my teammabtes for all the work they did on this project:
+
+1. Victor Levoso Fernandez
+
+2. Leo Mckee-Reid
+
+3. Andrei Cristea
+
+4. Florian van der Steen
+
+5. Luan Fletcher
+
+6. Sarah Sun
+
+7. Nikita Menon
