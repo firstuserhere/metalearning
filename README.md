@@ -16,4 +16,4 @@ I believe that it could be helpful to write not just for myself but for an audie
 
 The final paper and the product looks nice and polished, but the journey of making it so is never so. There's a lot of experimentation, a lot of studying, a lot of conversations, and a lot of frustration. Many new researchers get intimidated by the legendary papers and don't get to see the process of making them into those legendary papers. I want to change that. 
 
-You can find the research notes and all the thinking I did for this project at https://firstuserhere.github.io/outofcontextnotes 
+You can find the research notes and all the thinking I did for this project at [Meta-learning out-of-context research notes](https://firstuserhere.github.io/outofcontextnotes)
