@@ -2,17 +2,16 @@ title: Out of context Meta-Learning in LLMs
 author: Kunvar Thaman
 url: https://firstuserhere.github.io/metalearning # root address of the site
 description: > # description of the site (multiple lines allowed)
- This website contains the research notes, experiments, and the results we obtained while investigating the phenomena of out of context meta learning in LLMs through the lens of mechanistic interpretability.
+ This website contains experiments we did and the results we obtained while investigating the phenomena of out of context meta learning in LLMs through the lens of mechanistic interpretability.
 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
 twitter:
-    username: abhinav # update or delete this
+    username: firstuserhere # update or delete this
     card: summary_large_image
 
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
 theme_config:
