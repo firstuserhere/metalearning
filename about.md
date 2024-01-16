@@ -13,9 +13,11 @@ This website holds the results and experiments done to achieve a mechanistic und
     - [website](https://firstuserhere.github.io)
     - decoding transformations in transformers
 
-- Leo Mckee-Reid
+- Leo Mckee-Reid 
+    - [website](https://leomckeereid.com/)
     - Team co-ordinator
     - ex-design engineer for orbital rockets
+    - 
 
 - Andrei Cristea
     - in-house Computer vision expert
