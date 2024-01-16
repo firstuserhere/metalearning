@@ -3,20 +3,29 @@ layout: post
 title: About
 ---
 
-From January 2024 to April 2024, I (Kunvar) will be working to mechanistically understand the out of context meta-learning phenomena that occurs in large language models (llms). 
+This website holds the results and experiments done to achieve a mechanistic understanding of the Meta-(out-of-context)-learning phenomena that is observed in Large Language Models. This work was done as a part of AI Safety Camp, with Victor Levoso being the mentor. Here's our team:
 
-This is a collaborative effort. I want to thank my teammates for all the work they did, helping resolve the confusions about how LLMs perform meta-learning out of context.
+- Victor Levoso Fernandez
+    - Mentor
+    - figuring out planning and optimization in transformers
 
-1. Victor Levoso Fernandez
+- Kunvar Thaman
+    - [website](https://firstuserhere.github.io)
+    - decoding transformations in transformers
 
-2. Leo Mckee-Reid
+- Leo Mckee-Reid
+    - Team co-ordinator
+    - ex-design engineer for orbital rockets
 
-3. Andrei Cristea
+- Andrei Cristea
+    - in-house Computer vision expert
+    - Deep learning magician
 
-4. Florian van der Steen
+- Florian van der Steen
+    - experiments >> theories
 
-5. Luan Fletcher
+- Luan Fletcher
+    - interested in technical work for AI alignment
 
-6. Sarah Sun
-
-7. Nikita Menon
+- Nikita Menon
+    - exploring ai safety niches
