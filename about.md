@@ -17,7 +17,6 @@ This website holds the results and experiments done to achieve a mechanistic und
     - [website](https://leomckeereid.com/)
     - Team co-ordinator
     - ex-design engineer for orbital rockets
-    - 
 
 - Andrei Cristea
     - in-house Computer vision expert
