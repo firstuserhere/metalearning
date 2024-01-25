@@ -10,7 +10,7 @@ This website holds the results and experiments done to achieve a mechanistic und
     - figuring out planning and optimization in transformers
 
 - Kunvar Thaman
-    - [website](https://firstuserhere.github.io)
+    - [website](https://kunvarthaman.com), [social profiles](https://firstuserhere.github.io)
     - decoding transformations in transformers
 
 - Leo Mckee-Reid 
