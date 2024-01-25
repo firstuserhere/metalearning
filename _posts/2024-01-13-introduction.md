@@ -4,7 +4,9 @@ author: Kunvar Thaman
 tags: [references, theory]
 ---
 
-What is the confusion we're trying to resolve?
+This paper is about an apparently emergent phenomena in neural networks that the authors dub as "meta-out-of-context learning" (meta-OCL), expanding upon the concept of in-context learning identified by Brown et al. in 2020. In-context learning primarily addresses how large language models (LLMs) adapt to and utilize information presented within their immediate processing context. Meta-OCL, on the other hand, suggests a deeper, more abstract form of learning where LLMs exhibit a propensity to internalize and apply semantically rich content, particularly factual or authoritative information, in situations beyond the immediate context.
+
+
 
 # Out of context meta-learning
 
